@@ -161,7 +161,7 @@ We welcome all forms of contributions!
 
 ### Reporting Issues
 
-If you find bugs or have feature suggestions, please [create an Issue](https://github.com/yourusername/wills-enhanced-game/issues).
+If you find bugs or have feature suggestions, please [create an Issue](https://github.com/tkzzzzzz6/Will-s-Enhanced-Game/issues).
 
 ### Submitting Code
 
